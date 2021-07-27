@@ -5,8 +5,8 @@
 * The web page advertises a mobile app called "Excursion" which helps users record and share their experiences
 
 ## Technologies
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Git
 
 ## Features
